@@ -703,5 +703,71 @@
         "example": "Option not found"
       }
     }
+  },
+  "options_models_providers_kilocode": {
+    "message": "KiloCode"
+  },
+  "options_models_providers_kilocode_desc": {
+    "message": "KiloCode AI API"
+  },
+  "options_models_providers_kilocode_baseUrl": {
+    "message": "https://api.kilo.ai/api/gateway"
+  },
+  "options_models_providers_kilocode_models": {
+    "message": "GET https://api.kilo.ai/api/gateway/models"
+  },
+  "options_models_providers_puter": {
+    "message": "Puter"
+  },
+  "options_models_providers_puter_desc": {
+    "message": "Puter AI API"
+  },
+  "options_models_providers_puter_baseUrl": {
+    "message": "https://api.puter.com/puterai/openai/v1"
+  },
+  "options_models_providers_puter_models": {
+    "message": "Use puter.ai JS SDK to fetch models"
+  },
+  "options_models_providers_pollinations": {
+    "message": "Pollinations"
+  },
+  "options_models_providers_pollinations_desc": {
+    "message": "Pollinations AI API"
+  },
+  "options_models_providers_pollinations_baseUrl": {
+    "message": "https://gen.pollinations.ai/v1"
+  },
+  "options_models_providers_pollinations_models": {
+    "message": "GET https://gen.pollinations.ai/v1/models"
+  },
+  "options_models_providers_opencode": {
+    "message": "Opencode"
+  },
+  "options_models_providers_opencode_desc": {
+    "message": "Opencode AI API"
+  },
+  "options_models_providers_opencode_baseUrl": {
+    "message": "https://opencode.ai/zen/v1"
+  },
+  "options_models_providers_opencode_models": {
+    "message": "GET https://opencode.ai/zen/v1/models"
+  },
+  "options_btn_test": {
+    "message": "Test"
+  },
+  "options_btn_save": {
+    "message": "Save"
+  },
+  "options_btn_reset": {
+    "message": "Reset"
+  },
+  "options_theme_dark": {
+    "message": "Dark Mode"
+  },
+  "options_theme_light": {
+    "message": "Light Mode"
+  },
+  "options_theme_title": {
+    "message": "Theme"
   }
 }
